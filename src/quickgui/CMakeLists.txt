@@ -83,3 +83,7 @@ install(TARGETS qgis_quick
 # qgis_quick_plugin module (QML) library
 add_subdirectory(plugin)
 
+############################################################
+# Modern UI proof-of-concept (QML application shell)
+add_subdirectory(modern_ui_poc)
+
