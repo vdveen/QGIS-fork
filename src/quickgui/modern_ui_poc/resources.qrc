@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/theme/Theme.qml</file>
+        <file>qml/theme/qmldir</file>
+        <file>qml/components/qmldir</file>
+        <file>qml/components/ModernToolbar.qml</file>
+        <file>qml/components/ModernSidebar.qml</file>
+        <file>qml/components/ModernStatusBar.qml</file>
+        <file>qml/components/ToolbarButton.qml</file>
+        <file>qml/components/ToolbarSeparator.qml</file>
+        <file>qml/components/SearchBox.qml</file>
+        <file>qml/components/SidebarTab.qml</file>
+        <file>qml/components/LayerPanel.qml</file>
+        <file>qml/components/LayerListItem.qml</file>
+        <file>qml/components/SmallButton.qml</file>
+        <file>qml/components/MapZoomControls.qml</file>
+        <file>qml/components/ZoomButton.qml</file>
+        <file>qml/components/WelcomeOverlay.qml</file>
+        <file>qml/components/WelcomeLink.qml</file>
+        <file>qml/components/PlaceholderPanel.qml</file>
+        <file>qml/components/StatusItem.qml</file>
+        <file>qml/components/StatusSeparator.qml</file>
+    </qresource>
+</RCC>
