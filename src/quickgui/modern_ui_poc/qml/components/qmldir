@@ -1,0 +1,19 @@
+module components
+
+ModernToolbar 1.0 ModernToolbar.qml
+ModernSidebar 1.0 ModernSidebar.qml
+ModernStatusBar 1.0 ModernStatusBar.qml
+ToolbarButton 1.0 ToolbarButton.qml
+ToolbarSeparator 1.0 ToolbarSeparator.qml
+SearchBox 1.0 SearchBox.qml
+SidebarTab 1.0 SidebarTab.qml
+LayerPanel 1.0 LayerPanel.qml
+LayerListItem 1.0 LayerListItem.qml
+SmallButton 1.0 SmallButton.qml
+MapZoomControls 1.0 MapZoomControls.qml
+ZoomButton 1.0 ZoomButton.qml
+WelcomeOverlay 1.0 WelcomeOverlay.qml
+WelcomeLink 1.0 WelcomeLink.qml
+PlaceholderPanel 1.0 PlaceholderPanel.qml
+StatusItem 1.0 StatusItem.qml
+StatusSeparator 1.0 StatusSeparator.qml
